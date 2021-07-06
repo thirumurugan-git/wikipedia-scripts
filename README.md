@@ -4,4 +4,4 @@ This script can be used in wiki. magnifier.js helps to magnify the images on wik
 
 # Blog
 
-For more information use this link [a link] (https://thiruak1024.wordpress.com/2021/07/06/writing-user-script-for-wikisource/)
+For more information use this link (https://thiruak1024.wordpress.com/2021/07/06/writing-user-script-for-wikisource/)
